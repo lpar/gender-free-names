@@ -11,7 +11,7 @@ CC-BY
 Ade
 Alex
 Ali
-Andrea (*)
+Andrea 
 Andy
 Ash
 Ashley
@@ -20,7 +20,7 @@ Bobby
 Charlie
 Chris
 Dan
-Daniele (*)
+Daniele
 Dom
 Ed
 Fred
@@ -34,7 +34,7 @@ Kat
 Kay
 Kim
 Mattie
-Michele (*)
+Michele
 Mo
 Nat
 Nick
@@ -42,7 +42,7 @@ Ol
 Ray
 Robin
 Sam
-Simone (*)
+Simone
 Steve
 Tony
 Vic
@@ -50,4 +50,4 @@ Viv
 
 plus any initial-name such as 'BJ', 'JD'.
 
-(*) Marks names which are male in Italy, often female in UK and USA.
+Daniele, Michele and Simone are male in Italy, often female in UK and USA.
